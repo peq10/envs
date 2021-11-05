@@ -19,6 +19,7 @@ dependencies:
   - tornado<6
   - ilastik-dependencies-no-solvers==1.4.3
   - ilastik-forge/label/ilastik140::ilastik-meta==1.4.0b14  # ilastik-forge
+  - tiktorch-client
   - pip
   # ome: minimal dependencies required to use the Python API
   - omero-py
